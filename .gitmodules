@@ -1,0 +1,3 @@
+[submodule "submodules/POS_ERPNET"]
+	path = submodules/POS_ERPNET
+	url = git@github.com:microscaler/POS_ERPNET.git
